@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pingpong3</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <!-- added for camera tut; -->
+    <string name="button_snap">Photo</string>
+
+</resources>
